@@ -1,1 +1,1 @@
-https://komarev.com/ghpvc/?username=${username}&style=for-the-badge&color=brightgreen&label=Profile+Views
+https://komarev.com/ghpvc/?username=xqwtxon&style=for-the-badge&color=brightgreen&label=Profile+Views
