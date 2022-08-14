@@ -1,4 +1,3 @@
-username="$(cat config/username.txt)"
 count="0"
 if [ "$(connect -n https://github.com/)" == "1" ]; then
 	echo "[!] No Internet Connection!" && exit 1
