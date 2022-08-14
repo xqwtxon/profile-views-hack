@@ -8,8 +8,9 @@ I am not responsible to any damages to this file. This only educational uses. Us
 - Configure the `config/url.txt` and input the url destination do you want to view.
 - Configure the `config/useragent.txt` and input the user agent as you're visiting as?
 - Run the workflow by dispatching on actions tab.
-  - ![](/assets/run-workflow.png)
-
+  ![](/assets/run-workflow.png)
+- Feel free to cancel the workflow to stop the profile views counter.
+- Checkout your profile if its works!
 
 <hr>
 
