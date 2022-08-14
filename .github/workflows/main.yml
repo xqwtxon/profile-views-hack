@@ -1,7 +1,6 @@
 name: Unlimited Host (Github)
 
 on:
-  push:
   workflow_dispatch:
 
 jobs:
