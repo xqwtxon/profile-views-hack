@@ -1,3 +1,14 @@
+if [ -e "hack.log" ]; then
+	rm "hack.log"
+fi
+echo "[!] Profile Views Hack by @xqwtxon" >> "hack.log"
+echo "[?] Happy Speedy Hacky way Month!" >> "hack.log"
+echo "[!] Profile Views Hack by @xqwtxon"
+echo "[?] Happy Speedy Hacky way Month!"
+no_exit(){
+	echo "[!] $SIGINT Caught: This operation is not permitted."
+}
+
 count="0"
 while true
 	do
@@ -7,4 +18,6 @@ while true
 	echo "~"
 	else count="$(expr ${count} + 1)" && echo "${count}" && rm "views.cache"
 	fi
+	trap 'no_exit' SIGINT
+	echo "[*] Adding Profile Views: ${count}" >> "hack.log"
 done
