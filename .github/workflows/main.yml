@@ -1,6 +1,7 @@
 name: Unlimited Host (Github)
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
@@ -17,3 +18,4 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: bash "hack.sh"
+        continue-on-failure: true
