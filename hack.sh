@@ -1,3 +1,4 @@
+#!/bin/sh
 if [ -e "hack.log" ]; then
 	rm "hack.log"
 fi

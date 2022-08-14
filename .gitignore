@@ -1,5 +1,1 @@
-.idea/*
-.git/*
-views.cache # prevents useless file for caching
-hack.log
-
+release/*
