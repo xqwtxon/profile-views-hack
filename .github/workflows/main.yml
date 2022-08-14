@@ -18,4 +18,4 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: bash "hack.sh"
-        continue-on-failure: true
+        continue-on-error: true
