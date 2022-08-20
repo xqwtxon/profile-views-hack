@@ -1,3 +1,12 @@
+<hr>
+
+# **DEPRECATED**
+As of Sat, Aug 20, This project will arhive due the inactivity. This will remain new features to new ahead repository soon...
+
+There's different project can be found in github.
+
+<hr>
+
 # Profile Views Hack
 This is Hack to Speed up your Profile Views!
 ![](/assets/proff.png)
